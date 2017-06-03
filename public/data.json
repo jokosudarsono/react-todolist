@@ -1,0 +1,18 @@
+[
+    {
+        "content": "Eat",
+        "tag": "Food"
+    },
+    {
+        "content": "Sleep",
+        "tag": "Shutdown"
+    },
+    {
+        "content": "Code",
+        "tag": "Learn"
+    },
+    {
+        "content": "Travel",
+        "tag": "Refresh"
+    }
+]
